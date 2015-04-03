@@ -1,6 +1,6 @@
 #vagrant-centos6.5-puppet
 
-This is a skeleton project to make it easier to get started with vagratant.
+This is a skeleton project to make it easier to get started with vagrant.
 To get started, do the following:
 
 ``` 
